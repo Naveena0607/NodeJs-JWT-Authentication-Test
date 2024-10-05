@@ -29,12 +29,12 @@ const jwtMW = expressJwt({
 let users = [
     {
         id: 1,
-        username: 'pooja',
+        username: 'Naveena',
         password: '1234'
     },
     {
         id: 2,
-        username: 'guntur',
+        username: 'Surakanti',
         password: '0000'
     },
     
